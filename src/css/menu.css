@@ -108,5 +108,8 @@ top: 0;
         padding: 20px;
         display: block;
     }
+    .header h1{
+        font-size: 3rem;
+    }
 
 }
