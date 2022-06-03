@@ -4,7 +4,7 @@
 ***
 
 
-<img src="./testes.png" alt="gif do projeto">
+<img src="./testes.gif" alt="gif do projeto">
 
  ## Tecnologias utilizadas
 - `HTML`
