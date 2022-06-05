@@ -111,7 +111,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: white;
-    max-width: var(--max-width-size);
+    width: 100%;
     margin: 0 auto;
 }
 
